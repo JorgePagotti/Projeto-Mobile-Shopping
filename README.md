@@ -1,7 +1,7 @@
 <h1>Easy Shopping</h1>
 <br>
 <br>
-<h4>  Projeto Mobile responsivo usando a mesclagen das linguagens e tecnologias HTML e CSS que aprendi no <a href="https://rodolfomori.com.br/devclub">DEVCLUB</a></h2>
+<h4>  Meu primeiro Projeto Mobile responsivo usando a mesclagen das linguagens e tecnologias HTML e CSS que aprendi no <a href="https://rodolfomori.com.br/devclub">DEVCLUB</a></h2>
 <br>
 <h2>Tecnologias Utilizadas</h2>
 <br>
